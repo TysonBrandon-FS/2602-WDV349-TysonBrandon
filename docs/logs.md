@@ -71,15 +71,17 @@ Next week I plan to continue editing and building out my Figma document. I also 
 ### Week 3
 
 ## ⚙️ Overview
+Great week! I learned a lot about building techniques and really happy with the new pages I built out
 
 ## 🌵 Challenges
-
+Some time restrictions this week due to some familyt issues, but thats it. I feel like everything else went well.
 
 ## 🏆 Accomplishments
+Im really happen with the checkout page, its the one I spent the most time on and am proud of.
 
 ## 🔮 Next Steps
 
-
+Next steps is geting ready for week 4! I am a day behind but thats ok, Im ready to move on forward!
 
 
 
