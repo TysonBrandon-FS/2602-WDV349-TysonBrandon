@@ -89,3 +89,12 @@ Shows when someone tries to go to a page that doesn't exist.
 4. User clicks "View Details" on a trip to see the trip details page
 5. From trip details, user can edit or delete the trip
 6. User can click "Back" to return to dashboard
+
+
+
+
+
+
+
+
+Added this to update the wireframes branch so there was something to commit
