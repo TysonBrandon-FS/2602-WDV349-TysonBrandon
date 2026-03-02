@@ -1,0 +1,40 @@
+.jl-heroTitle {
+    text-align: center;
+    padding: 28px 12px 18px;
+  }
+  
+  .jl-heroTitle__title {
+    margin: 0;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 1.05;
+  }
+  
+  .jl-heroTitle__highlight {
+    color: #2f8ecb;
+  }
+  
+  .jl-heroTitle__badge {
+    margin-top: 14px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 14px;
+    border-radius: 999px;
+    background: #e8f6ff;
+    color: #2f8ecb;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  
+  .jl-heroTitle__badgeIcon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  @media (max-width: 768px) {
+    .jl-heroTitle__title {
+      font-size: 40px;
+    }
+  }
