@@ -87,8 +87,18 @@ Next steps is geting ready for week 4! I am a day behind but thats ok, Im ready 
 
 ### Week 4
 
-My final stand up...
+## ⚙️ Overview
+Great week! It was short due to it being the last week but we made it, it was a rough 2 days but we did it!
 
+## 🌵 Challenges
+I did not undertsand the components asspect of this weeks assignment, butafter 3 hours of research and frustation i figured it out.
+
+## 🏆 Accomplishments
+I figured out components! and the Alpha looks pretty decent too.
+
+## 🔮 Next Steps
+
+Next steps is getting ready for our next class. and work on my time mamagement skills as always.
 
 
 
