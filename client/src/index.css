@@ -1,10 +1,10 @@
 :root {
-  --blue: #3498DB;
-  --grey: #7F8C8D;
-  --blueish-grey: #95A5A6;
-  --white: #FFFFFF;
+  --blue: #3498db;
+  --grey: #7f8c8d;
+  --blueish-grey: #95a5a6;
+  --white: #ffffff;
   --black: #000000;
-  --red: #E74C3C;
+  --red: #e74c3c;
 }
 
 * {
@@ -15,11 +15,15 @@
 
 body {
   font-family: 'Arsenal', 'Roboto', 'Helvetica Neue', sans-serif;
-  background-color: var(--blueish-grey);
+  background-color: #f5f7fa;
   color: var(--black);
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -57,19 +61,19 @@ p {
   h1 {
     font-size: 2rem;
   }
-  
+
   h2 {
     font-size: 1.75rem;
   }
-  
+
   h3 {
     font-size: 1.5rem;
   }
-  
+
   h4 {
     font-size: 1.25rem;
   }
-  
+
   h5 {
     font-size: 1.1rem;
   }
@@ -79,7 +83,16 @@ p {
   min-height: 100vh;
 }
 
-
 .App {
   text-align: center;
+}
+
+.jl-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.jl-page {
+  width: 100%;
 }

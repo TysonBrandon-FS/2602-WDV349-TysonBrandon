@@ -1,0 +1,30 @@
+.jl-page--hotels {
+  padding: 40px 20px;
+  background: #f5f7fa;
+  min-height: calc(100vh - 64px);
+}
+
+.jl-hotels-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.jl-hotels-title {
+  font-size: 2.5rem;
+  margin-top: 20px;
+  color: #333;
+}
+
+.jl-hotels-grid {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 24px;
+}
+
+@media (max-width: 768px) {
+  .jl-hotels-grid {
+    grid-template-columns: 1fr;
+  }
+}
