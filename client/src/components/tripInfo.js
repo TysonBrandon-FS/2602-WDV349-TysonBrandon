@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './TripInfoField.css';
+import './Tripinfo.css';
 
 function PlusIcon() {
   return (
