@@ -1,0 +1,18 @@
+{
+  "name": "travel-price-tracker-api",
+  "version": "1.0.0",
+  "description": "API server for Travel Price Tracker",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
