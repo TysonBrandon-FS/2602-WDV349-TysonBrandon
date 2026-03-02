@@ -66,7 +66,7 @@ export default function TrackedTrip({ trip, onAddToCart }) {
       </div>
 
       <div className="jl-trip__btnRow">
-        <Button text="Add To Cart" handleClick={handleAdd} />
+        <Button text="Add To Cart" onClick={handleAdd} />
       </div>
     </div>
   );

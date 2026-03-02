@@ -15,7 +15,7 @@
 
 body {
   font-family: 'Arsenal', 'Roboto', 'Helvetica Neue', sans-serif;
-  background-color: var(--blueish-grey);
+  background-color: #f5f7fa;
   color: var(--black);
 }
 
@@ -85,4 +85,14 @@ p {
 
 .App {
   text-align: center;
+}
+
+.jl-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.jl-page {
+  width: 100%;
 }
