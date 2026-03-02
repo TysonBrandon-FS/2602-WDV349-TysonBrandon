@@ -1,0 +1,35 @@
+.jl-page--thankyou {
+  padding: 60px 20px;
+  background: #f5f7fa;
+  min-height: calc(100vh - 64px);
+  text-align: center;
+}
+
+.jl-thankyou-content {
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+.jl-thankyou-title {
+  font-size: 2.5rem;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.jl-thankyou-link {
+  display: block;
+  font-size: 1.2rem;
+  color: #4a90e2;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+
+.jl-thankyou-link:hover {
+  text-decoration: underline;
+}
+
+.jl-thankyou-message {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 32px;
+}

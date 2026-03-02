@@ -1,0 +1,99 @@
+.jl-hiw {
+    padding: 34px 12px 50px;
+    text-align: center;
+  }
+  
+  .jl-hiw__title {
+    margin: 0;
+    font-size: 26px;
+    font-weight: 600;
+  }
+  
+  .jl-hiw__sub {
+    margin: 8px 0 22px;
+    color: #9aa8b2;
+    font-size: 14px;
+  }
+  
+  .jl-hiw__grid {
+    max-width: 980px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+  }
+  
+  .jl-hiw__cardWrap {
+    position: relative;
+  }
+  
+  .jl-hiw__num {
+    position: absolute;
+    top: -14px;
+    left: -14px;
+    width: 34px;
+    height: 34px;
+    border-radius: 999px;
+    background: #2f8ecb;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  
+  .jl-hiw__card {
+    background: #fff;
+    border: 1px solid #e6edf3;
+    border-radius: 14px;
+    padding: 20px 18px 18px;
+    text-align: left;
+    min-height: 180px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+  }
+  
+  .jl-hiw__iconBox {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    background: #e8f6ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .jl-hiw__icon {
+    font-size: 18px;
+  }
+  
+  .jl-hiw__cardTitle {
+    margin: 14px 0 6px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .jl-hiw__cardText {
+    margin: 0;
+    color: #9aa8b2;
+    font-size: 14px;
+    line-height: 1.45;
+  }
+  
+  @media (max-width: 900px) {
+    .jl-hiw__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 520px) {
+    .jl-hiw__grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .jl-hiw__num {
+      left: 10px;
+      top: -16px;
+    }
+  }
