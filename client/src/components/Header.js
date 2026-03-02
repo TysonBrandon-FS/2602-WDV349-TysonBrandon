@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import '../components/Header.css';
-import Button from '../Button/Button';
+import Button from './Button';
 
 function UserIcon() {
   return (
